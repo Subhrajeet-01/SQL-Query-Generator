@@ -1,2 +1,2 @@
 # SQL-Query-Generator
-Generate SQL Query From Texts.
+Generate SQL Query From Texts using OpenAI API.
